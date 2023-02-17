@@ -235,17 +235,17 @@
       }, {
         name: 'noChildrenText',
         type: 'String',
-        defaultValue: code('"No sub-options."'),
+        defaultValue: code('"无子选项"'),
         description: 'Text displayed when a branch node has no children.',
       }, {
         name: 'noOptionsText',
         type: 'String',
-        defaultValue: code('"No options available."'),
+        defaultValue: code('"无可选项"'),
         description: 'Text displayed when there are no available options.',
       }, {
         name: 'noResultsText',
         type: 'String',
-        defaultValue: code('"No results found..."'),
+        defaultValue: code('"无匹配数据"'),
         description: 'Text displayed when there are no matching search results.',
       }, {
         name: 'normalizer',

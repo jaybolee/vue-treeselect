@@ -405,7 +405,7 @@ export default {
      */
     noChildrenText: {
       type: String,
-      default: 'No sub-options.',
+      default: '无子选项',
     },
 
     /**
@@ -413,7 +413,7 @@ export default {
      */
     noOptionsText: {
       type: String,
-      default: 'No options available.',
+      default: '无可选项',
     },
 
     /**
@@ -421,7 +421,7 @@ export default {
      */
     noResultsText: {
       type: String,
-      default: 'No results found...',
+      default: '无匹配数据',
     },
 
     /**
